@@ -1,0 +1,21 @@
+{
+  "short_name": "LJ Finanzen",
+  "name": "Landjugend Finanzmanager",
+  "icons": [
+    {
+      "src": "https://lucide.dev/icon/sprout?size=192",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://lucide.dev/icon/sprout?size=512",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#f9fafb",
+  "orientation": "portrait"
+}
